@@ -14,9 +14,9 @@ the database.
 
 ## The insights I found while querying the database include:
 
-1. [Bottom 5 Movie Genres](https://public.tableau.com/app/profile/matthew.ossachuk/viz/BottomandTop5MovieGenres-Rockbuster/Bottom5MovieGenres)
-2. [Top and Bottom 10 Actors](https://public.tableau.com/app/profile/matthew.ossachuk/viz/TopandBottom10ActorsbyTotalRevenue-Rockbuster/Top10Actors)
+1. [Top and bottom 5 Movie Genres](https://public.tableau.com/app/profile/matthew.ossachuk/viz/BottomandTop5MovieGenres-Rockbuster/Bottom5MovieGenres)
+2. [Top and bottom 10 Actors](https://public.tableau.com/app/profile/matthew.ossachuk/viz/TopandBottom10ActorsbyTotalRevenue-Rockbuster/Top10Actors)
 3. [Number of Rockbuster Customers in each country](https://public.tableau.com/app/profile/matthew.ossachuk/viz/NumberofCustomersineachcountrywithrevenue-Rockbuster/ComboMap-NumberofCustomersandRevenue)
 4. [Top 5 Rockbuster Customers](https://public.tableau.com/app/profile/matthew.ossachuk/viz/TopFiveRockbusterCustomers-Rockbuster/Top5RockbusterCustomers)
-5. [Highest and Lowest revenue contributing movies](https://public.tableau.com/app/profile/matthew.ossachuk/viz/HighestandLowestContributingMovies-Rockbuster/LowestRevenueContributingMovies)
+5. [Highest and lowest revenue contributing movies](https://public.tableau.com/app/profile/matthew.ossachuk/viz/HighestandLowestContributingMovies-Rockbuster/LowestRevenueContributingMovies)
 
