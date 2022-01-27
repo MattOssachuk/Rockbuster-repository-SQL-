@@ -5,7 +5,7 @@ world. Facing stiff competition from streaming services such as Netflix and Amaz
 the Rockbuster Stealth management team is planning to use its existing movie licenses to
 launch an online video rental service in order to stay competitive.
 
-My task is to help Rockbuster discover insights from their database to try and put together a strategy for their new online video streaming service. 
+My task was to help Rockbuster discover insights from their database to try and put together a strategy for their new online video streaming service. 
 
 For this analysis I'll be using a data set that contains information about Rockbuster’s
 film inventory, customers, and payments, among other things. This data set was provided to me by the
