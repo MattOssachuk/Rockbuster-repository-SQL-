@@ -1,0 +1,4 @@
+-- This code selects the mode (most frequent value) that occured in the rating column.  
+
+SELECT mode() WITHIN GROUP (ORDER BY rating) AS most_frequent_rating
+FROM film
