@@ -1,0 +1,27 @@
+/* This queries the top 10 revenue generating movies in the database */
+
+SELECT SUM(amount) AS Revenue,
+       title AS Movie_Title,
+	   rating
+FROM payment A
+INNER JOIN rental B ON A.rental_id = B.rental_id
+INNER JOIN inventory C ON B.inventory_id = C.inventory_id
+INNER JOIN film D ON C.film_id = D.film_id
+GROUP BY title,
+         rating
+ORDER BY Revenue DESC
+LIMIT 10
+
+/* This queries the bottom 10 revenue generating movies in the database */
+
+SELECT SUM(amount) AS Revenue,
+       title AS Movie_Title,
+	   rating
+FROM payment A
+INNER JOIN rental B ON A.rental_id = B.rental_id
+INNER JOIN inventory C ON B.inventory_id = C.inventory_id
+INNER JOIN film D ON C.film_id = D.film_id
+GROUP BY title,
+         rating
+ORDER BY Revenue ASC
+LIMIT 10
